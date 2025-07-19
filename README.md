@@ -18,5 +18,7 @@ one led is the digital output.
 Potentiometer is the analog input. Middle pin to A0, left pin to 5V, right pin to GND.
 The other led is the analog output.
 
+## Tinkercad link:
+https://www.tinkercad.com/things/5YSAbNQrQSr-electronicstask4/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=fr9qVVLY_ikOSYoGhW_4JLQM6KKvvCq0C7WZEpZV0Hk
 
 
